@@ -1,4 +1,4 @@
-# torch==2.1.0.dev20230814+cu121
+# torch==2.1.0
 import torch
 from layer.variational_allocator import VariationalAllocator
 

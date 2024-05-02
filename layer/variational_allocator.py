@@ -2,7 +2,7 @@
 import cvxpy as cp
 # cvxpylayers==0.1.6
 from cvxpylayers.torch import CvxpyLayer
-# torch==2.1.0.dev20230814+cu121
+# torch==2.1.0
 import torch
 
 

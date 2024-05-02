@@ -3,7 +3,7 @@ seed = 5
 
 # numpy==1.24.1
 import numpy as np
-# torch==2.1.0.dev20230814+cu121
+# torch==2.1.0
 import torch
 
 torch.manual_seed(seed)
